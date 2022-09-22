@@ -21,3 +21,5 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ## License
 
 ## [MIT](https://choosealicense.com/licenses/mit/)
+
+![Proje Resmi](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgvXFVuwk-BodMiF2CjRvU6ZRAKpcS6lSdqKb0bNnWMauTjtSddm7v9P2GVyWP92p_J0g&usqp=CAU)
